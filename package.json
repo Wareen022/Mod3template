@@ -1,5 +1,5 @@
 {
-  "name": "coen3463-m3t15",
+  "name": "mod3",
   "version": "1.0.0",
   "description": "Module 3",
   "main": "app.js",
@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wareen022/Mod3template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Wareen022/Mod3template/issues"
+  },
+  "homepage": "https://github.com/Wareen022/Mod3template#readme"
 }
